@@ -1,12 +1,12 @@
 # Github Streak Vanity Pop
 From this
 
-![image](https://github.com/Ephygtz/Github-streak-vanity-popper/assets/fromThis.png)
+![image](assets/fromThis.png)
 
 to this
 
 
-![image](https://github.com/Ephygtz/Github-streak-vanity-popper/assets/githubStreak.png)
+![image](assets/githubStreak.png)
 
 Want to make your GitHub streak metrics pop ?
 Run 
