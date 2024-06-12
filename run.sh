@@ -1,5 +1,5 @@
 #!/bin/bash
-MAX_DAYS=90
+MAX_DAYS=65
 
 rm -rf .git
 git init
@@ -21,7 +21,7 @@ for day in $days ;
 do 
     date="$day days ago"
     message="Vanity commited $date"
-    echo "- Added vanity commit $message" >> README.md
+    echo "- feat: $message" >> README.md
     git add .
     git commit --date "$date" -m "$message"
 done

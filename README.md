@@ -1,4 +1,4 @@
-# Github Streak Vanity Pop
+# Github Streak Vanity Popper
 From this
 
 ![image](assets/fromThis.png)
@@ -10,9 +10,9 @@ to this
 
 Want to make your GitHub streak metrics pop ?
 Run 
-creates a commit for every day for the last 90 days.
+creates a commit for every day for the last {$MAX_DAYS} days.
 
-## Commits for the last 90
+## Commits for the last {$MAX_DAYS}
 
 - Added vanity commit Vanity commited 90 days ago
 - Added vanity commit Vanity commited 89 days ago
